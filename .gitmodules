@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/plantedml/universe
 	branch = HEAD
+[submodule "glex"]
+	path = glex
+	url = https://github.com/PlantedML/glex
+[submodule "randomPlantedForest"]
+	path = randomPlantedForest
+	url = https://github.com/PlantedML/randomPlantedForest
