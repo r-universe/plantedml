@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/plantedml/universe
+	url = https://github.com/plantedml/plantedml.r-universe.dev
 	branch = HEAD
 [submodule "glex"]
 	path = glex
