@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["randomPlantedForest", "rpf_benchmark", "universe"]
+  "repositories": ["randomPlantedForest", "rpf_benchmark", "plantedml.r-universe.dev"]
 }
